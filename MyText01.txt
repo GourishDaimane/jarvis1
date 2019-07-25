@@ -1,10 +1,8 @@
 aaaaaa
 baaaaa baaaa
 cccc
-<<<<<<< HEAD
 dddd
-=======
 eeee
->>>>>>> br2
+
 
 
